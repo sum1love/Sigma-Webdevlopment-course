@@ -1,0 +1,1 @@
+See the Preview of the Website in the Mobile ifconfig change the localhost ip in live preview setting in vscode and type the local ip in your browser.
